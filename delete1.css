@@ -1,7 +1,8 @@
 body{
     /* background-image: url("https://cdn.pixabay.com/photo/2017/08/06/22/01/books-2596809_640.jpg" ); */
     font-family: 'Source Code Pro', monospace;
-    background-image: url("books-2596809_640.jpg");
+    /* background-image: url("books-2596809_640.jpg"); */
+    background-color: grey;
 }
 h1{
     -webkit-text-stroke: 2px black;
